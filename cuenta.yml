@@ -8,3 +8,4 @@ springdoc.api-docs.path=/api
 springdoc.swagger-ui.path=/swagger-ui.html
 
 apis.cliente=http://localhost:8080/api/v1/client/
+cuenta.value=666
